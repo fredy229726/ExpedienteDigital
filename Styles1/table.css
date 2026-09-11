@@ -10,13 +10,13 @@ th, td {
 }
 
 td {
-    font-size: 20px;
+    font-size: 24px;
     font-weight: bold;
     color: white;
 }
 
 th {
-    font-size: 26px;
+    font-size: 30px;
     background-color: ;
 }
 
@@ -47,11 +47,11 @@ th {
 @media (max-width: 720px) {
 
     th {
-        font-size: 10px;
+        font-size: 12px;
     }
 
     td {
-        font-size: 8px;
+        font-size: 10px;
         color: #fff;
     }
 }
